@@ -1,4 +1,5 @@
 # python_for_Blender
+渲染图像效果可查看：https://github.com/Gardenia33/multi-view_images_data
 Blender渲染3D模型多视角图像python脚本，在渲染图片数量不变时，固定渲染角度。
 rendering文件夹中的参考源代码：Objaverse-XL Rendering Script
 
