@@ -1,0 +1,2 @@
+# python_for_Blender
+Blender渲染3D模型多视角图像python脚本
